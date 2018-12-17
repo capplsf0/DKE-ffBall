@@ -1,0 +1,8 @@
+{
+'Majors': 'MB',
+'Willis': 'WH','Trevor': 'TM','Skip': 'RA',
+
+'Matt': 'MC','Jared': 'JD',
+'ean': 'ED','Connor': 'CC',
+'Sawyer': 'SG','Sam': 'SC'
+}
